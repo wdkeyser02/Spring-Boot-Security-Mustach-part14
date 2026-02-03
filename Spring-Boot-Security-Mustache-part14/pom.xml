@@ -12,7 +12,7 @@
 	<artifactId>Spring-Boot-Security-Mustache-part14</artifactId>
 	<version>0.0.1</version>
 	<name>Spring-Boot-Security-Mustache-part14</name>
-	<description>Spring Boot Security FreeMarker</description>
+	<description>Spring Boot Security Mustache</description>
 	<url/>
 	<licenses>
 		<license/>
